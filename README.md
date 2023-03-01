@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitesh</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A frontend developer</h3>
 <img src="https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmitesh&label=Profile%20views&color=0e75b6&style=flat" alt="kmitesh" /> </p>
