@@ -1,4 +1,4 @@
-<img src="https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg" alt="coding" height="400" align="center">
+<img src="https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg" alt="coding">
 <h1 align="center">Hi 👋, I'm Mitesh</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
