@@ -1,8 +1,8 @@
 
-<image align=“center” alt=“coding” width=“400” src=“https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg”/>
+<img src="https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg" alt="coding">
 <h1 align="center">Hi 👋, I'm Mitesh</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<image align=“right” alt=“coding” width=“400” src=“https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif”/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmitesh&label=Profile%20views&color=0e75b6&style=flat" alt="kmitesh" /> </p>
 
